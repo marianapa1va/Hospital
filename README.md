@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Consultas para Hospital
 
 🚧 **ATENÇÃO: Este projeto está em desenvolvimento!** 🚧  
+
 Algumas funcionalidades ainda estão sendo implementadas. Sinta-se à vontade para explorar, mas esteja ciente de que o projeto não está totalmente funcional.  
 
 **Descrição**
